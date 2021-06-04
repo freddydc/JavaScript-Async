@@ -1,0 +1,27 @@
+{
+  "name": "javascript-async",
+  "version": "1.0.0",
+  "description": "Working JavaScript Asynchronous",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/indexC.js",
+    "callback:s": "node src/callback/sampleC.js",
+    "promise": "node src/promise/indexP.js",
+    "promise:s": "node src/promise/sampleP.js",
+    "async": "node src/async/indexA.js",
+    "async:s": "node src/async/sampleA.js"
+  },
+  "keywords": [
+    "async",
+    "callback",
+    "promise"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

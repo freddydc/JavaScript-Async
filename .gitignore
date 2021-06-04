@@ -1,0 +1,6 @@
+app.py
+node_modules
+package-lock.json
+.vscode/settings.json
+index.html
+index.css
